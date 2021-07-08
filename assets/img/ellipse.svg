@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="640px" height="720px" viewBox="0 0 640 720" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="objectBoundingBox" cx="0%" cy="0%" fx="0%" fy="0%" r="141.42136%" gradientTransform="translate(0,0),rotate(45.00004),scale(1,0),translate(-0,-0)" id="gradient_1">
+      <stop offset="0%" stop-color="#06B9FF" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#06B9FF" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <path d="M0 496C0 222.067 222.067 0 496 0C769.933 0 992 222.067 992 496C992 769.933 769.933 992 496 992C222.067 992 0 769.933 0 496Z" transform="translate(-352 -136)" id="Ellipse" fill="url(#gradient_1)" fill-opacity="0.25" fill-rule="evenodd" stroke="none" />
+</svg>
